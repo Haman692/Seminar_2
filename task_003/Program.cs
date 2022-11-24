@@ -3,9 +3,13 @@
 Console.Clear();
 Console.WriteLine("Введите число");
 int ferstNumber = Convert.ToInt32 (Console.ReadLine());
+
 Console.WriteLine("Второе число");
 int secondNumber = Convert.ToInt32 (Console.ReadLine());
+
 int ostatok = ferstNumber % secondNumber;
 
-if(ferstNumber % secondNumber == 0) Console.WriteLine($"{ferstNumber} кратно {secondNumber} ");
-else Console.WriteLine($"{ferstNumber} не кратно {secondNumber}, остаток {ostatok}");
+if(ferstNumber % secondNumber == 0) 
+    Console.WriteLine($"{ferstNumber} кратно {secondNumber} ");
+else 
+    Console.WriteLine($"{ferstNumber} не кратно {secondNumber}, остаток {ostatok}");
