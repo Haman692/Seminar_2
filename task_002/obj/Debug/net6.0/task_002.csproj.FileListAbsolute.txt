@@ -1,0 +1,15 @@
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\bin\Debug\net6.0\task_002.exe
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\bin\Debug\net6.0\task_002.deps.json
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\bin\Debug\net6.0\task_002.runtimeconfig.json
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\bin\Debug\net6.0\task_002.dll
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\bin\Debug\net6.0\task_002.pdb
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\obj\Debug\net6.0\task_002.csproj.AssemblyReference.cache
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\obj\Debug\net6.0\task_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\obj\Debug\net6.0\task_002.AssemblyInfoInputs.cache
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\obj\Debug\net6.0\task_002.AssemblyInfo.cs
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\obj\Debug\net6.0\task_002.csproj.CoreCompileInputs.cache
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\obj\Debug\net6.0\task_002.dll
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\obj\Debug\net6.0\refint\task_002.dll
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\obj\Debug\net6.0\task_002.pdb
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\obj\Debug\net6.0\task_002.genruntimeconfig.cache
+C:\Lesson\3 block (C#)\Lesson_1\Seminar_2\Seminar_2\task_002\obj\Debug\net6.0\ref\task_002.dll
